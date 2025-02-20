@@ -1,7 +1,3 @@
-Entiendo que deseas un archivo `README.md` para tu proyecto de reconocimiento facial utilizando OpenCV, Python y Deep Learning, con formato adecuado para GitHub, incluyendo fórmulas en LaTeX y emojis para mejorar la presentación. A continuación, te proporciono una estructura detallada que puedes utilizar:
-
----
-
 # 😃 Reconocimiento Facial con OpenCV, Python y Deep Learning
 
 Este proyecto implementa un sistema de reconocimiento facial en tiempo real utilizando **Python**, **OpenCV** y técnicas de **Deep Learning**.
