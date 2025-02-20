@@ -17,12 +17,18 @@ Este repositorio contiene dos implementaciones de reconocimiento facial basadas 
 - `dataset/` → Contiene imágenes de entrenamiento.
 - `Lab_Reconocimiento_Facial.pdf` → Documentación del proyecto.
 
+- ![Imagen de WhatsApp 2024-02-08 a las 03 49 28_dfdfdf18](https://github.com/user-attachments/assets/c06216a2-ee88-4d71-a5d5-b6f26c316130)
+
+
 ### 📁 Webcam-Version/
 - `encode_faces.py` → Codifica los rostros en imágenes.
 - `face_recognition_webcam.py` → Reconocimiento facial en PC con webcam.
 - `encodings_webcam.pickle` → Archivo con codificaciones de rostros generadas.
 - `dataset_webcam/` → Contiene imágenes de entrenamiento.
 - `Reconocimiento_Facial_OpenCV.pdf` → Documentación del proyecto.
+
+- ![image](https://github.com/user-attachments/assets/921605fc-3e6a-4b85-8c0b-0b55547ba20c)
+
 
 ---
 
