@@ -1,7 +1,3 @@
-Entiendo que deseas recrear el tutorial de reconocimiento facial en Raspberry Pi y presentar la información en un archivo `README.md` con formato de escritura para GitHub, incluyendo fórmulas en LaTeX y emojis para mejorar la presentación. A continuación, te proporciono una guía detallada para lograrlo.
-
----
-
 # 😃 Reconocimiento Facial con Raspberry Pi utilizando Python y OpenCV
 
 Este proyecto implementa un sistema de reconocimiento facial en tiempo real en una Raspberry Pi, empleando las bibliotecas **Python**, **OpenCV** y **face_recognition**.
